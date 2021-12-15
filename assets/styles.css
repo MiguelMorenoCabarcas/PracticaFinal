@@ -14,3 +14,26 @@
     background-image: url('img/north-star-g1b1537636_1920.jpg');
     background-position: 75%;
 }
+
+.section-2-bg-1{
+    background-image: url('img/couple-gf38c4f7f1_1920.jpg');
+    background-position-y: 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.section-2-bg-2{
+    background-image: url('img/cats-g77153bfb6_1920.jpg');
+    background-position-x: 100%;
+    background-position-y: 67%;
+    background-size: 304%;
+    background-repeat: no-repeat;
+}
+
+.section-2-bg-3{
+    background-image: url('img/low-poly-g72a464a91_1920.jpg');
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
