@@ -37,3 +37,22 @@
     background-size: 100%;
     background-repeat: no-repeat;
 }
+
+.btn{
+    border-radius: 0;
+}
+
+.btn:hover{
+    background-color: rgb(65, 65, 65);
+}
+
+.s3{
+    background-color: rgb(106, 175, 255);
+}
+
+.s3-1{
+    background-color: rgb(60, 151, 255);
+    
+
+}
+
