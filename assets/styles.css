@@ -10,3 +10,7 @@
     color: rgb(53, 53, 194);
 } */
 
+.bg-image{
+    background-image: url('img/north-star-g1b1537636_1920.jpg');
+    background-position: 75%;
+}
