@@ -57,7 +57,7 @@
 }
 
 .s4{
-    height: 400px;
+    height: 700px;
 }
 
 .s4-img{
@@ -66,4 +66,17 @@
     background-repeat: no-repeat;
     background-position-y: 5%;
     background-position-x: 46%;
+}
+
+.c1{
+    background-color: rgb(215, 240, 190);
+}
+
+.c2{
+    background-color: rgb(228, 243, 213);
+}
+
+.c3{
+    
+   background-color: rgb(235, 234, 233);
 }
